@@ -2,7 +2,7 @@ package calculator;
 
 class StringCalculator {
 
-  test case 1
+  
     public int add(String input) 
     {
     	int a = 0; int b = 0; int sum = 0;
